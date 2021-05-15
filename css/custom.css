@@ -9,11 +9,10 @@ html {
 
 .study-program {
     color: #000000 !important;
-    padding: 5px;
+    padding: 6px;
 }
 
 .study-program:hover {
     background-color: #eea412;
     color: white;
-    display: block;
 }
