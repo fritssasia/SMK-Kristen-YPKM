@@ -3,3 +3,7 @@
 html {
     scroll-behavior: smooth;
 }
+
+.nav-link.active {
+    color:#eea412 !important;
+}
