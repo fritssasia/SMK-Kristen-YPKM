@@ -1,9 +1,17 @@
-
 /** ADD YOUR AWESOME CODES HERE **/
 html {
     scroll-behavior: smooth;
 }
 
 .nav-link.active {
-    color:#eea412 !important;
+    color: #eea412 !important;
+}
+
+.study-program {
+    padding: 5px;
+}
+
+.study-program:hover {
+    background-color: #eea412;
+    display: block;
 }
