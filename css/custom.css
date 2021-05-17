@@ -21,6 +21,11 @@ html {
     color: #eea412 !important;
 }
 
+/* Vision and Mission */
+.vision-mission-logo {
+    width: 50px;
+}
+
 /* Information */
 .study-program {
     color: #000000 !important;

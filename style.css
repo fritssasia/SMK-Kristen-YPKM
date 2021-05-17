@@ -2477,7 +2477,6 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
 }
 
 .footer {
@@ -2766,7 +2765,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
@@ -3829,7 +3828,7 @@ a.link-style3 {
 .course-item{
 	background: #ffffff;
 }
-.course-item{}
+
 .course-title > h2 {
     margin: 15px 0;
     padding: 0px;
