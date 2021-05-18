@@ -22,17 +22,17 @@ html {
 }
 
 /* Vision and Mission */
-.vision-mission-logo {
-    width: 50px;
+.vision-mission-icon {
+    font-size: 50px;
+}
+
+/* Facility */
+.facility-icon {
+    font-size: 50px;
 }
 
 /* Information */
 .study-program {
     color: #000000 !important;
     padding: 6px;
-}
-
-.study-program:hover {
-    background-color: #FA8E2C;
-    color: white;
 }
