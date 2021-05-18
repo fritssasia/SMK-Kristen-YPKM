@@ -13,12 +13,12 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #eea412;
+    background: #FA8E2C;
 }
 
 /* Navbar */
 .nav-link.active {
-    color: #eea412 !important;
+    color: #FA8E2C !important;
 }
 
 /* Vision and Mission */
@@ -33,6 +33,6 @@ html {
 }
 
 .study-program:hover {
-    background-color: #eea412;
+    background-color: #FA8E2C;
     color: white;
 }
