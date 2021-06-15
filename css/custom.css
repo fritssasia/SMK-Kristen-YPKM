@@ -22,13 +22,44 @@ html {
 }
 
 /* Vision and Mission */
+.vision-mission-icon-wrapper {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    background-color: #4c5a7d;
+    color: white;
+    border-radius: 100px;
+    padding: 17px 10px;
+}
+
+.vision-mission-icon-wrapper:hover {
+    background-color: #FA8E2C;
+    transition: 0.2s ease-in;
+}
+
 .vision-mission-icon {
-    font-size: 50px;
+    font-size: 45px;
 }
 
 /* Facility */
+.facility-icon-wrapper {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    background-color: #4c5a7d;
+    color: white;
+    border-radius: 100px;
+    padding: 17px 8px;
+    transition: 0.3s ease-out;
+}
+
+.facility-icon-wrapper:hover {
+    background-color: #FA8E2C;
+    transition: 0.2s ease-in;
+}
+
 .facility-icon {
-    font-size: 50px;
+    font-size: 45px;
 }
 
 /* Information */
